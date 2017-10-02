@@ -29,6 +29,8 @@ Procedural Parts: Procedural Pods depends on the Procdural Parts mod for transfo
 
 Tiktaalik's Airlock Collection: allows Kerbals to EVA from Procedural Pods via an airlock part, as Procedural Pods do not have hatches themselves.
 
+Freedom Textures: more texture options for your pods! Other PP texture mods also apply.
+
 
 ---Compatible Mods---
 
